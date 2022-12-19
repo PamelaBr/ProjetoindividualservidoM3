@@ -13,7 +13,7 @@
         {"nome":"desodorante", "apresentaçao": "aerosol", "quantidade": "1", "laboratorio": "Rexona"}
     ],
 
-    "saude bucal": [
+    "saudebucal": [
         {"nome":"creme dental", "apresentaçao": "pasta", "quantidade": "1", "laboratorio": "Colgate"},
         {"nome":"fio dental", "apresentaçao": "rolo", "quantidade": "3", "laboratorio": "Colgate"},
         {"nome":"antisséptico", "apresentaçao": "liquido", "quantidade": "2", "laboratorio": "Listerine"},
